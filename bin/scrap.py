@@ -20,7 +20,7 @@ URLS = {
 def downloadPDF(eldir, filename, url, retries=3):
     filepath = os.path.join(eldir, "%s.pdf" % filename)
     if os.path.exists(filepath):
-        print("WARNING: already existing PDF", filepath, file=sys.stderr)
+        #print("WARNING: already existing PDF", filepath, file=sys.stderr)
         return False
     try:
         r = requests.get(url, stream=True)

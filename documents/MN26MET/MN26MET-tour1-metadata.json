@@ -1,0 +1,974 @@
+{
+  "69001": {
+    "name": "Lones et Coteaux",
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-metropolitaines-2026/data-json/1_candidats_circo_69001",
+    "candidats": [
+      {
+        "pdf": "1-69001-1",
+        "candidat": "M. J\u00e9r\u00f4me MOROGE",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 1,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69001-2",
+        "candidat": "Mme Corinne PRINCE-VESSILLER",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 2,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69001-3",
+        "candidat": "M. Didier JOANNAS",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 3,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69001-4",
+        "candidat": "Mme C\u00e9cile FAURITE",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 4,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69001-5",
+        "candidat": "M. Jean-Charles KOHLHAAS",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 5,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69001-6",
+        "candidat": "Mme C\u00e9cile PATOUT",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 6,
+        "falc": "0"
+      },
+      {
+        "pdf": "0",
+        "candidat": "M. Lucas MIGUEL",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 7,
+        "falc": "0"
+      }
+    ]
+  },
+  "69002": {
+    "name": "Lyon-Ouest",
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-metropolitaines-2026/data-json/1_candidats_circo_69002",
+    "candidats": [
+      {
+        "pdf": "1-69002-1",
+        "candidat": "M. Pascal PINOT",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 1,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69002-2",
+        "candidat": "Mme Anne-Marie CHAMBON",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 2,
+        "falc": "0"
+      },
+      {
+        "pdf": "0",
+        "candidat": "M. Frederic DUVAL",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 3,
+        "falc": "0"
+      },
+      {
+        "pdf": "0",
+        "candidat": "Mme Malika BENARAB ATTOU",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 4,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69002-5",
+        "candidat": "M. Yann CUCHERAT",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 5,
+        "falc": "1-69002-5-falc"
+      },
+      {
+        "pdf": "1-69002-6",
+        "candidat": "M. Fran\u00e7ois JOURNY",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 6,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69002-7",
+        "candidat": "M. Florian PATARD",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 7,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69002-8",
+        "candidat": "M. Cedric ROUSSET",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 8,
+        "falc": "0"
+      }
+    ]
+  },
+  "69003": {
+    "name": "Lyon-Sud",
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-metropolitaines-2026/data-json/1_candidats_circo_69003",
+    "candidats": [
+      {
+        "pdf": "1-69003-1",
+        "candidat": "M. Greg COLLOT",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 1,
+        "falc": "0"
+      },
+      {
+        "pdf": "0",
+        "candidat": "M. Mathis GANGAND",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 2,
+        "falc": "0"
+      },
+      {
+        "pdf": "0",
+        "candidat": "M. Louis G\u00c9RIN",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 3,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69003-4",
+        "candidat": "Mme L\u00e9a TAURAN",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 4,
+        "falc": "0"
+      },
+      {
+        "pdf": "0",
+        "candidat": "Mme Adeline BAIZE",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 5,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69003-6",
+        "candidat": "M. Christophe GEOURJON",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 6,
+        "falc": "1-69003-6-falc"
+      },
+      {
+        "pdf": "1-69003-7",
+        "candidat": "M. G\u00e9rard DEBRINAY",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 7,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69003-8",
+        "candidat": "Mme Lucie VACHER",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 8,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69003-9",
+        "candidat": "M. Olivier MINOUX",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 9,
+        "falc": "0"
+      }
+    ]
+  },
+  "69004": {
+    "name": "Lyon-Centre",
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-metropolitaines-2026/data-json/1_candidats_circo_69004",
+    "candidats": [
+      {
+        "pdf": "0",
+        "candidat": "M. Thierry DUSSUD",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 1,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69004-2",
+        "candidat": "Mme Soumaya CHAHER",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 2,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69004-3",
+        "candidat": "M. Pascal PALAYER",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 3,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69004-4",
+        "candidat": "Mme Kheira BOUKRALFA",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 4,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69004-5",
+        "candidat": "Mme Val\u00e9rie LORENTZ POINSOT",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 5,
+        "falc": "1-69004-5-falc"
+      },
+      {
+        "pdf": "1-69004-6",
+        "candidat": "Mme Lauriane KHELFANE",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 6,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69004-7",
+        "candidat": "Mme Delphine BRIDAY",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 7,
+        "falc": "0"
+      },
+      {
+        "pdf": "0",
+        "candidat": "Mme Malika HADDAD GROSJEAN",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 8,
+        "falc": "0"
+      },
+      {
+        "pdf": "0",
+        "candidat": "M. Florestan GROULT",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 9,
+        "falc": "0"
+      }
+    ]
+  },
+  "69005": {
+    "name": "Lyon-Est",
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-metropolitaines-2026/data-json/1_candidats_circo_69005",
+    "candidats": [
+      {
+        "pdf": "1-69005-1",
+        "candidat": "M. Vincent LEYRE",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 1,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69005-2",
+        "candidat": "M. Benjamin BADOUARD",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 2,
+        "falc": "0"
+      },
+      {
+        "pdf": "0",
+        "candidat": "M. Anthony BRUNO",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 3,
+        "falc": "0"
+      },
+      {
+        "pdf": "0",
+        "candidat": "Mme Nathalie MACHEZ",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 4,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69005-5",
+        "candidat": "Mme H\u00e9l\u00e8ne BARONNIER",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 5,
+        "falc": "1-69005-5-falc"
+      },
+      {
+        "pdf": "1-69005-6",
+        "candidat": "Mme Chantal HELLY",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 6,
+        "falc": "0"
+      },
+      {
+        "pdf": "0",
+        "candidat": "M. Albert LEVY",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 7,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69005-8",
+        "candidat": "M. Thimot\u00e9e MARTIN-BROSSAT",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 8,
+        "falc": "0"
+      },
+      {
+        "pdf": "0",
+        "candidat": "M. Vikas-Simon LEVESQUE",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 9,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69005-10",
+        "candidat": "M. Pierre OBRECHT",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 10,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69005-11",
+        "candidat": "M. L\u00e9on CROS",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 11,
+        "falc": "0"
+      }
+    ]
+  },
+  "69006": {
+    "name": "Lyon-Nord",
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-metropolitaines-2026/data-json/1_candidats_circo_69006",
+    "candidats": [
+      {
+        "pdf": "1-69006-1",
+        "candidat": "M. Adrien DENIS",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 1,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69006-2",
+        "candidat": "M. Michel DULAC",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 2,
+        "falc": "0"
+      },
+      {
+        "pdf": "0",
+        "candidat": "M. Etienne JAOUEN",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 3,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69006-4",
+        "candidat": "M. Emmanuel BUISSON-FENET",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 4,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69006-5",
+        "candidat": "Mme Sarah PEILLON",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 5,
+        "falc": "1-69006-5-falc"
+      },
+      {
+        "pdf": "1-69006-6",
+        "candidat": "Mme Sandrine RUNEL",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 6,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69006-7",
+        "candidat": "Mme Jacqueline BONNET",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 7,
+        "falc": "0"
+      },
+      {
+        "pdf": "0",
+        "candidat": "Mme Lise PAILLETTE",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 8,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69006-9",
+        "candidat": "Mme H\u00e9l\u00e8ne RIVIERE",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 9,
+        "falc": "0"
+      }
+    ]
+  },
+  "69007": {
+    "name": "Lyon-Sud-Est",
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-metropolitaines-2026/data-json/1_candidats_circo_69007",
+    "candidats": [
+      {
+        "pdf": "1-69007-1",
+        "candidat": "M. Michel LE FAOU",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 1,
+        "falc": "1-69007-1-falc"
+      },
+      {
+        "pdf": "1-69007-2",
+        "candidat": "M. Laurent LEGENDRE",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 2,
+        "falc": "1-69007-2-falc"
+      },
+      {
+        "pdf": "0",
+        "candidat": "M. Arnaud WANDJI YEPTIEP",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 3,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69007-4",
+        "candidat": "Mme Marie-Charlotte GARIN",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 4,
+        "falc": "0"
+      },
+      {
+        "pdf": "0",
+        "candidat": "Mme Raphaelle MIZONY",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 5,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69007-6",
+        "candidat": "Mme Nathalie PERRIN-GILBERT",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 6,
+        "falc": "0"
+      },
+      {
+        "pdf": "0",
+        "candidat": "M. Alexandre DUPALAIS",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 7,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69007-8",
+        "candidat": "Mme Marie-Christine PERNIN",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 8,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69007-9",
+        "candidat": "M. James GEORGES",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 9,
+        "falc": "0"
+      }
+    ]
+  },
+  "69008": {
+    "name": "Ouest",
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-metropolitaines-2026/data-json/1_candidats_circo_69008",
+    "candidats": [
+      {
+        "pdf": "1-69008-1",
+        "candidat": "M. Tristan TEYSSIER",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 1,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69008-2",
+        "candidat": "M. Florent JULLIAND",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 2,
+        "falc": "0"
+      },
+      {
+        "pdf": "0",
+        "candidat": "Mme Claire GRUNENWALD",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 3,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69008-4",
+        "candidat": "Mme Annie Armande TORRENT",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 4,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69008-5",
+        "candidat": "M. Olivier ROCHE",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 5,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69008-6",
+        "candidat": "Mme H\u00e9l\u00e8ne DUVIVIER",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 6,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69008-7",
+        "candidat": "Mme V\u00e9ronique SARSELLI",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 7,
+        "falc": "0"
+      }
+    ]
+  },
+  "69009": {
+    "name": "Plateau Nord-Caluire",
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-metropolitaines-2026/data-json/1_candidats_circo_69009",
+    "candidats": [
+      {
+        "pdf": "0",
+        "candidat": "M. Yves DUIGOU",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 1,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69009-2",
+        "candidat": "M. Fabrice MATTEUCCI",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 2,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69009-3",
+        "candidat": "Mme Antoinette TARLET",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 3,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69009-4",
+        "candidat": "M. Alexandre VINCENDET",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 4,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69009-5",
+        "candidat": "M. Didier QUILICHINI",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 5,
+        "falc": "0"
+      },
+      {
+        "pdf": "0",
+        "candidat": "Mme Jacqueline VITAU",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 6,
+        "falc": "0"
+      },
+      {
+        "pdf": "0",
+        "candidat": "Mme Samah CHAOUI",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 7,
+        "falc": "0"
+      }
+    ]
+  },
+  "69010": {
+    "name": "Porte des Alpes",
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-metropolitaines-2026/data-json/1_candidats_circo_69010",
+    "candidats": [
+      {
+        "pdf": "0",
+        "candidat": "Mme Wafia ZAK",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 1,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69010-2",
+        "candidat": "Mme Manon DOYELLE",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 2,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69010-3",
+        "candidat": "M. Michel PIOT",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 3,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69010-4",
+        "candidat": "Mme Tiffany JONCOUR",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 4,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69010-5",
+        "candidat": "M. Gilles GASCON",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 5,
+        "falc": "0"
+      }
+    ]
+  },
+  "69011": {
+    "name": "Portes du Sud",
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-metropolitaines-2026/data-json/1_candidats_circo_69011",
+    "candidats": [
+      {
+        "pdf": "1-69011-1",
+        "candidat": "Mme Mich\u00e8le PICARD",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 1,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69011-2",
+        "candidat": "M. Jean-No\u00ebl DUDUKDJIAN",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 2,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69011-3",
+        "candidat": "M. Idir BOUMERTIT",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 3,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69011-4",
+        "candidat": "Mme Nathalie FRIER",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 4,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69011-5",
+        "candidat": "Mme Mich\u00e8le EDERY",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 5,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69011-6",
+        "candidat": "Mme Fran\u00e7oise MAITRE",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 6,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69011-7",
+        "candidat": "M. Marco CHARAVIA",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 7,
+        "falc": "0"
+      }
+    ]
+  },
+  "69012": {
+    "name": "Rh\u00f4ne Amont",
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-metropolitaines-2026/data-json/1_candidats_circo_69012",
+    "candidats": [
+      {
+        "pdf": "1-69012-1",
+        "candidat": "M. Thomas SPREUX",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 1,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69012-2",
+        "candidat": "Mme H\u00e9l\u00e8ne GEOFFROY",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 2,
+        "falc": "0"
+      },
+      {
+        "pdf": "0",
+        "candidat": "M. Nordine GASMI",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 3,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69012-4",
+        "candidat": "M. Tim BOUZON",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 4,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69012-5",
+        "candidat": "M. Olivier LEFEBVRE",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 5,
+        "falc": "0"
+      },
+      {
+        "pdf": "0",
+        "candidat": "M. Abdelmajid BENYOUB",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 6,
+        "falc": "0"
+      },
+      {
+        "pdf": "0",
+        "candidat": "Mme Fatiha DIDAOUI",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 7,
+        "falc": "0"
+      },
+      {
+        "pdf": "0",
+        "candidat": "M. Franck MULLER",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 8,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69012-9",
+        "candidat": "Mme Laurence FAUTRA",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 9,
+        "falc": "0"
+      }
+    ]
+  },
+  "69013": {
+    "name": "Val de Sa\u00f4ne",
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-metropolitaines-2026/data-json/1_candidats_circo_69013",
+    "candidats": [
+      {
+        "pdf": "1-69013-1",
+        "candidat": "Mme Muriel VANDER DONCKT",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 1,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69013-2",
+        "candidat": "M. Thierry D'AMATO",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 2,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69013-3",
+        "candidat": "M. Xavier FOURBOUL",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 3,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69013-4",
+        "candidat": "M. S\u00e9bastien MICHEL",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 4,
+        "falc": "0"
+      },
+      {
+        "pdf": "0",
+        "candidat": "M. H\u00e9lios LOPEZ",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 5,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69013-6",
+        "candidat": "Mme Rose-France FOURNILLON",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 6,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69013-7",
+        "candidat": "M. J\u00e9r\u00e9my CAMUS",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 7,
+        "falc": "0"
+      }
+    ]
+  },
+  "69014": {
+    "name": "Villeurbanne",
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-metropolitaines-2026/data-json/1_candidats_circo_69014",
+    "candidats": [
+      {
+        "pdf": "0",
+        "candidat": "Mme Corinne FERRETTI",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 1,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69014-2",
+        "candidat": "M. Bruno BERNARD",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 2,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69014-3",
+        "candidat": "M. G\u00e9rald CANON",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 3,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69014-4",
+        "candidat": "Mme Nadia BOUHAMI",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 4,
+        "falc": "0"
+      },
+      {
+        "pdf": "1-69014-5",
+        "candidat": "M. Gabriel AMARD",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 5,
+        "falc": "1-69014-5-falc"
+      },
+      {
+        "pdf": "1-69014-6",
+        "candidat": "M. Didier VULLIERME",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 6,
+        "falc": "1-69014-6-falc"
+      },
+      {
+        "pdf": "1-69014-7",
+        "candidat": "Mme Sylvie BLES-GAGNAIRE",
+        "falc_acc": "0",
+        "pdf_acc": "0",
+        "numPanneau": 7,
+        "falc": "0"
+      }
+    ]
+  }
+}

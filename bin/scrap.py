@@ -64,12 +64,12 @@ def request_data(sb, url, field, fallback_field=None, retries=10, allow_fail=Fal
         sys.exit(1)
 
 
-def scrape_municipales(elcode="MN26"):
+def scrape_municipales(elcode="MN26", tours=[1, 2]):
   with SB(uc=True) as sb:
     eldir = os.path.join("documents", elcode)
     if not os.path.exists(eldir):
         os.makedirs(eldir)
-    for tour in [1, 2]:
+    for tour in tours:
         nb_dep = 0
         nb_com = 0
         nb_c = 0
@@ -98,7 +98,7 @@ def scrape_municipales(elcode="MN26"):
                 data[depcode]["communes"][comcode] = {
                     "name": comname,
                     "url": comurl,
-                    "candidats": request_data(sb, comurl, "data")
+                    "candidats": request_data(sb, comurl, "data", allow_fail=True)
                 }
                 comdir = os.path.join(deptdir, comcode)
                 if not os.path.exists(comdir):
@@ -120,12 +120,12 @@ def scrape_municipales(elcode="MN26"):
         if nb_n:
             print("%s tour %s: %s new documents collected (%s total candidates are published out of %s listed in %s departments and %s communes)." % (elcode, tour, nb_n, nb_d, nb_c, nb_dep, nb_com))
 
-def scrape_municipales_arrondissements(elcode="MN26ARR"):
+def scrape_municipales_arrondissements(elcode="MN26ARR", tours=[1, 2]):
   with SB(uc=True) as sb:
     eldir = os.path.join("documents", elcode)
     if not os.path.exists(eldir):
         os.makedirs(eldir)
-    for tour in [1, 2]:
+    for tour in tours:
         nb_com = 0
         nb_sec = 0
         nb_c = 0
@@ -154,7 +154,7 @@ def scrape_municipales_arrondissements(elcode="MN26ARR"):
                 data[comcode]["secteurs"][seccode] = {
                     "name": secname,
                     "url": securl,
-                    "candidats": request_data(sb, securl, "data")
+                    "candidats": request_data(sb, securl, "data", allow_fail=True)
                 }
                 secdir = os.path.join(comdir, seccode)
                 if not os.path.exists(secdir):
@@ -176,12 +176,12 @@ def scrape_municipales_arrondissements(elcode="MN26ARR"):
         if nb_n:
             print("%s tour %s: %s new documents collected (%s total candidates are published out of %s listed in %s communes and %s arrondissements)." % (elcode, tour, nb_n, nb_d, nb_c, nb_com, nb_sec))
 
-def scrape_municipales_metropole(elcode="MN26MET"):
+def scrape_municipales_metropole(elcode="MN26MET", tours=[1, 2]):
   with SB(uc=True) as sb:
     eldir = os.path.join("documents", elcode)
     if not os.path.exists(eldir):
         os.makedirs(eldir)
-    for tour in [1, 2]:
+    for tour in tours:
         nb_circo = 0
         nb_c = 0
         nb_d = 0
@@ -196,7 +196,7 @@ def scrape_municipales_metropole(elcode="MN26MET"):
             data[circocode] = {
                 "name": circoname,
                 "url": circourl,
-                "candidats": request_data(sb, circourl, "data")
+                "candidats": request_data(sb, circourl, "data", allow_fail=True)
             }
             circodir = os.path.join(eldir, circocode)
             if not os.path.exists(circodir):

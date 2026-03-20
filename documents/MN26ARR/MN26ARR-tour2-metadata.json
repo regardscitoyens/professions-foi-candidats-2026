@@ -1,1 +1,907 @@
-{}
+{
+  "13055": {
+    "name": "Marseille",
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_sects_com_13055",
+    "secteurs": {
+      "Marseille-S01": {
+        "name": "1er secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Marseille-S01",
+        "candidats": [
+          {
+            "pdf": "0",
+            "candidat": "M. S\u00e9bastien BARLES",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 1
+          },
+          {
+            "pdf": "2-Marseille-S01-2",
+            "candidat": "Mme Sophie CAMARD",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Marseille-S01-2-falc",
+            "numPanneau": 2
+          },
+          {
+            "pdf": "2-Marseille-S01-3",
+            "candidat": "Mme Cl\u00e9mence PARODI",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 3
+          },
+          {
+            "pdf": "2-Marseille-S01-4",
+            "candidat": "M. Romain SIMMARANO",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 4
+          }
+        ]
+      },
+      "Marseille-S02": {
+        "name": "2e secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Marseille-S02",
+        "candidats": [
+          {
+            "pdf": "2-Marseille-S02-2",
+            "candidat": "Mme Marie BERMEJO",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 2
+          },
+          {
+            "pdf": "0",
+            "candidat": "M. Alladine ABDALLAH SALIM",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 3
+          },
+          {
+            "pdf": "2-Marseille-S02-5",
+            "candidat": "M. Anthony KREHMEIER",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Marseille-S02-5-falc",
+            "numPanneau": 5
+          }
+        ]
+      },
+      "Marseille-S03": {
+        "name": "3e secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Marseille-S03",
+        "candidats": [
+          {
+            "pdf": "0",
+            "candidat": "Mme L\u00e9a BIJAOUI",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 1
+          },
+          {
+            "pdf": "2-Marseille-S03-2",
+            "candidat": "M. Thomas BATTESTI",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 2
+          },
+          {
+            "pdf": "2-Marseille-S03-3",
+            "candidat": "M. Didier JAU",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Marseille-S03-3-falc",
+            "numPanneau": 3
+          },
+          {
+            "pdf": "2-Marseille-S03-4",
+            "candidat": "M. Bruno GILLES",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 4
+          }
+        ]
+      },
+      "Marseille-S04": {
+        "name": "4e secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Marseille-S04",
+        "candidats": [
+          {
+            "pdf": "2-Marseille-S04-3",
+            "candidat": "Mme Olivia FORTIN",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Marseille-S04-3-falc",
+            "numPanneau": 3
+          },
+          {
+            "pdf": "2-Marseille-S04-4",
+            "candidat": "Mme Catherine PILA",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 4
+          },
+          {
+            "pdf": "2-Marseille-S04-5",
+            "candidat": "M. Jean-Baptiste RIVOALLAN",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 5
+          }
+        ]
+      },
+      "Marseille-S05": {
+        "name": "5e secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Marseille-S05",
+        "candidats": [
+          {
+            "pdf": "2-Marseille-S05-1",
+            "candidat": "Mme El\u00e9onore BEZ",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 1
+          },
+          {
+            "pdf": "2-Marseille-S05-2",
+            "candidat": "Mme Laure-Agn\u00e8s CARADEC",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 2
+          },
+          {
+            "pdf": "2-Marseille-S05-4",
+            "candidat": "M. Pierre HUGUET",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Marseille-S05-4-falc",
+            "numPanneau": 4
+          }
+        ]
+      },
+      "Marseille-S06": {
+        "name": "6e secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Marseille-S06",
+        "candidats": [
+          {
+            "pdf": "2-Marseille-S06-1",
+            "candidat": "M. Yannick OHANESSIAN",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Marseille-S06-1-falc",
+            "numPanneau": 1
+          },
+          {
+            "pdf": "2-Marseille-S06-2",
+            "candidat": "M. Olivier RIOULT",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 2
+          },
+          {
+            "pdf": "0",
+            "candidat": "M. Sylvain SOUVESTRE",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 4
+          }
+        ]
+      },
+      "Marseille-S07": {
+        "name": "7e secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Marseille-S07",
+        "candidats": [
+          {
+            "pdf": "2-Marseille-S07-2",
+            "candidat": "Mme Marion BAREILLE",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 2
+          },
+          {
+            "pdf": "2-Marseille-S07-5",
+            "candidat": "Mme Sandrine D'ANGIO",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 5
+          },
+          {
+            "pdf": "2-Marseille-S07-6",
+            "candidat": "Mme Tina BIARD SANSONETTI",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Marseille-S07-6-falc",
+            "numPanneau": 6
+          }
+        ]
+      },
+      "Marseille-S08": {
+        "name": "8e secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Marseille-S08",
+        "candidats": [
+          {
+            "pdf": "2-Marseille-S08-1",
+            "candidat": "Mme Samia GHALI",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 1
+          },
+          {
+            "pdf": "2-Marseille-S08-4",
+            "candidat": "M. Thibaut CHARPENTIER",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 4
+          },
+          {
+            "pdf": "0",
+            "candidat": "Mme Rabyata BOINAHERI",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 5
+          }
+        ]
+      }
+    }
+  },
+  "69123": {
+    "name": "Lyon",
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_sects_com_69123",
+    "secteurs": {
+      "Lyon-S01": {
+        "name": "1er secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Lyon-S01",
+        "candidats": [
+          {
+            "pdf": "2-Lyon-S01-2",
+            "candidat": "Mme Yasmine BOU\u00c2GGA",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 2
+          },
+          {
+            "pdf": "2-Lyon-S01-4",
+            "candidat": "Mme Laure C\u00c9DAT",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Lyon-S01-4-falc",
+            "numPanneau": 4
+          }
+        ]
+      },
+      "Lyon-S02": {
+        "name": "2e secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Lyon-S02",
+        "candidats": [
+          {
+            "pdf": "2-Lyon-S02-1",
+            "candidat": "M. Pierre OLIVER",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Lyon-S02-1-falc",
+            "numPanneau": 1
+          },
+          {
+            "pdf": "2-Lyon-S02-3",
+            "candidat": "M. Valentin LUNGENSTRASS",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 3
+          }
+        ]
+      },
+      "Lyon-S03": {
+        "name": "3e secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Lyon-S03",
+        "candidats": [
+          {
+            "pdf": "2-Lyon-S03-3",
+            "candidat": "Mme Marion SESSIECQ",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Lyon-S03-3-falc",
+            "numPanneau": 3
+          },
+          {
+            "pdf": "2-Lyon-S03-5",
+            "candidat": "Mme B\u00e9atrice DE MONTILLE",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Lyon-S03-5-falc",
+            "numPanneau": 5
+          }
+        ]
+      },
+      "Lyon-S04": {
+        "name": "4e secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Lyon-S04",
+        "candidats": [
+          {
+            "pdf": "2-Lyon-S04-3",
+            "candidat": "M. R\u00e9mi ZINCK",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Lyon-S04-3-falc",
+            "numPanneau": 3
+          },
+          {
+            "pdf": "2-Lyon-S04-4",
+            "candidat": "M. Lo\u00efc TERRENES",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Lyon-S04-4-falc",
+            "numPanneau": 4
+          }
+        ]
+      },
+      "Lyon-S05": {
+        "name": "5e secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Lyon-S05",
+        "candidats": []
+      },
+      "Lyon-S06": {
+        "name": "6e secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Lyon-S06",
+        "candidats": []
+      },
+      "Lyon-S07": {
+        "name": "7e secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Lyon-S07",
+        "candidats": [
+          {
+            "pdf": "2-Lyon-S07-2",
+            "candidat": "Mme Emilie DESRIEUX",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Lyon-S07-2-falc",
+            "numPanneau": 2
+          },
+          {
+            "pdf": "2-Lyon-S07-4",
+            "candidat": "Mme Fanny DUBOT",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Lyon-S07-4-falc",
+            "numPanneau": 4
+          }
+        ]
+      },
+      "Lyon-S08": {
+        "name": "8e secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Lyon-S08",
+        "candidats": [
+          {
+            "pdf": "2-Lyon-S08-1",
+            "candidat": "M. Olivier BERZANE",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Lyon-S08-1-falc",
+            "numPanneau": 1
+          },
+          {
+            "pdf": "2-Lyon-S08-4",
+            "candidat": "Mme Barbara VELON",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Lyon-S08-4-falc",
+            "numPanneau": 4
+          },
+          {
+            "pdf": "2-Lyon-S08-6",
+            "candidat": "M. Alexandre DUPALAIS",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 6
+          }
+        ]
+      },
+      "Lyon-S09": {
+        "name": "9e secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Lyon-S09",
+        "candidats": [
+          {
+            "pdf": "0",
+            "candidat": "M. Florian PATARD",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 1
+          },
+          {
+            "pdf": "2-Lyon-S09-2",
+            "candidat": "Mme La\u00efla KHALLOUK",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Lyon-S09-2-falc",
+            "numPanneau": 2
+          },
+          {
+            "pdf": "2-Lyon-S09-3",
+            "candidat": "M. Emmanuel GIRAUD",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Lyon-S09-3-falc",
+            "numPanneau": 3
+          }
+        ]
+      }
+    }
+  },
+  "75056": {
+    "name": "Paris",
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_sects_com_75056",
+    "secteurs": {
+      "Paris-S01": {
+        "name": "1er secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Paris-S01",
+        "candidats": [
+          {
+            "pdf": "2-Paris-S01-1",
+            "candidat": "M. C\u00e9dric PANIZZI",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 1
+          },
+          {
+            "pdf": "2-Paris-S01-3",
+            "candidat": "M. Ariel WEIL",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Paris-S01-3-falc",
+            "numPanneau": 3
+          },
+          {
+            "pdf": "2-Paris-S01-6",
+            "candidat": "M. Aur\u00e9lien V\u00c9RON",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Paris-S01-6-falc",
+            "numPanneau": 6
+          }
+        ]
+      },
+      "Paris-S05": {
+        "name": "5e secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Paris-S05",
+        "candidats": [
+          {
+            "pdf": "2-Paris-S05-4",
+            "candidat": "Mme Florence BERTHOUT",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 4
+          },
+          {
+            "pdf": "2-Paris-S05-8",
+            "candidat": "Mme Marine ROSSET",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Paris-S05-8-falc",
+            "numPanneau": 8
+          }
+        ]
+      },
+      "Paris-S06": {
+        "name": "6e secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Paris-S06",
+        "candidats": [
+          {
+            "pdf": "2-Paris-S06-3",
+            "candidat": "M. Antoine LESIEUR",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 3
+          },
+          {
+            "pdf": "2-Paris-S06-5",
+            "candidat": "M. Jean-Pierre LECOQ",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 5
+          },
+          {
+            "pdf": "2-Paris-S06-6",
+            "candidat": "Mme C\u00e9line HERVIEU",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Paris-S06-6-falc",
+            "numPanneau": 6
+          }
+        ]
+      },
+      "Paris-S07": {
+        "name": "7e secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Paris-S07",
+        "candidats": []
+      },
+      "Paris-S08": {
+        "name": "8e secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Paris-S08",
+        "candidats": [
+          {
+            "pdf": "2-Paris-S08-2",
+            "candidat": "Mme Marie COLLIN",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 2
+          },
+          {
+            "pdf": "2-Paris-S08-3",
+            "candidat": "Mme Th\u00e9a FOURDRINIER",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Paris-S08-3-falc",
+            "numPanneau": 3
+          },
+          {
+            "pdf": "2-Paris-S08-6",
+            "candidat": "Mme Catherine L\u00c9CUYER",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Paris-S08-6-falc",
+            "numPanneau": 6
+          },
+          {
+            "pdf": "2-Paris-S08-7",
+            "candidat": "Mme Jeanne D'HAUTESERRE",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 7
+          }
+        ]
+      },
+      "Paris-S09": {
+        "name": "9e secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Paris-S09",
+        "candidats": [
+          {
+            "pdf": "2-Paris-S09-1",
+            "candidat": "Mme Delphine B\u00dcRKLI",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 1
+          },
+          {
+            "pdf": "2-Paris-S09-2",
+            "candidat": "Mme Camille VIZIOZ-BRAMI",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Paris-S09-2-falc",
+            "numPanneau": 2
+          }
+        ]
+      },
+      "Paris-S10": {
+        "name": "10e secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Paris-S10",
+        "candidats": [
+          {
+            "pdf": "2-Paris-S10-2",
+            "candidat": "Mme Alexandra CORDEBARD",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Paris-S10-2-falc",
+            "numPanneau": 2
+          },
+          {
+            "pdf": "2-Paris-S10-3",
+            "candidat": "Mme Marion BEAUVALET",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 3
+          },
+          {
+            "pdf": "2-Paris-S10-4",
+            "candidat": "Mme Valentine SERINO",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 4
+          },
+          {
+            "pdf": "2-Paris-S10-5",
+            "candidat": "M. Bertil FORT",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 5
+          }
+        ]
+      },
+      "Paris-S11": {
+        "name": "11e secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Paris-S11",
+        "candidats": [
+          {
+            "pdf": "2-Paris-S11-1",
+            "candidat": "M. David BELLIARD",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Paris-S11-1-falc",
+            "numPanneau": 1
+          },
+          {
+            "pdf": "2-Paris-S11-3",
+            "candidat": "Mme Sabrina NOURI",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 3
+          },
+          {
+            "pdf": "2-Paris-S11-4",
+            "candidat": "Mme Nelly GARNIER",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 4
+          },
+          {
+            "pdf": "2-Paris-S11-6",
+            "candidat": "Mme Delphine GOATER",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Paris-S11-6-falc",
+            "numPanneau": 6
+          }
+        ]
+      },
+      "Paris-S12": {
+        "name": "12e secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Paris-S12",
+        "candidats": [
+          {
+            "pdf": "2-Paris-S12-3",
+            "candidat": "Mme Lucie CASTETS",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 3
+          },
+          {
+            "pdf": "2-Paris-S12-4",
+            "candidat": "Mme Clara CHASSANIOL",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Paris-S12-4-falc",
+            "numPanneau": 4
+          },
+          {
+            "pdf": "2-Paris-S12-5",
+            "candidat": "Mme Val\u00e9rie MONTANDON",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 5
+          },
+          {
+            "pdf": "2-Paris-S12-7",
+            "candidat": "Mme Caroline MECARY",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 7
+          }
+        ]
+      },
+      "Paris-S13": {
+        "name": "13e secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Paris-S13",
+        "candidats": []
+      },
+      "Paris-S14": {
+        "name": "14e secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Paris-S14",
+        "candidats": [
+          {
+            "pdf": "2-Paris-S14-4",
+            "candidat": "M. Rodrigo ARENAS",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 4
+          },
+          {
+            "pdf": "2-Paris-S14-8",
+            "candidat": "Mme Carine PETIT",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Paris-S14-8-falc",
+            "numPanneau": 8
+          },
+          {
+            "pdf": "2-Paris-S14-9",
+            "candidat": "Mme Maud GATEL",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Paris-S14-9-falc",
+            "numPanneau": 9
+          }
+        ]
+      },
+      "Paris-S15": {
+        "name": "15e secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Paris-S15",
+        "candidats": [
+          {
+            "pdf": "2-Paris-S15-1",
+            "candidat": "Mme Anouch TORANIAN",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 1
+          },
+          {
+            "pdf": "2-Paris-S15-4",
+            "candidat": "M. Philippe GOUJON",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 4
+          }
+        ]
+      },
+      "Paris-S16": {
+        "name": "16e secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Paris-S16",
+        "candidats": []
+      },
+      "Paris-S17": {
+        "name": "17e secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Paris-S17",
+        "candidats": [
+          {
+            "pdf": "2-Paris-S17-3",
+            "candidat": "Mme Rachel-Flore PARDO",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 3
+          },
+          {
+            "pdf": "2-Paris-S17-5",
+            "candidat": "M. Geoffroy BOULARD",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 5
+          },
+          {
+            "pdf": "2-Paris-S17-7",
+            "candidat": "M. Karim ZIADY",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 7
+          }
+        ]
+      },
+      "Paris-S18": {
+        "name": "18e secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Paris-S18",
+        "candidats": [
+          {
+            "pdf": "2-Paris-S18-3",
+            "candidat": "M. Thierry GUERRIER",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 3
+          },
+          {
+            "pdf": "2-Paris-S18-4",
+            "candidat": "M. Eric LEJOINDRE",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 4
+          },
+          {
+            "pdf": "2-Paris-S18-5",
+            "candidat": "Mme Dani\u00e8le OBONO",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 5
+          },
+          {
+            "pdf": "2-Paris-S18-9",
+            "candidat": "M. Samir BELA\u00cfD",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 9
+          }
+        ]
+      },
+      "Paris-S19": {
+        "name": "19e secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Paris-S19",
+        "candidats": [
+          {
+            "pdf": "2-Paris-S19-2",
+            "candidat": "M. Pierre LISCIA",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 2
+          },
+          {
+            "pdf": "2-Paris-S19-3",
+            "candidat": "M. Fran\u00e7ois DAGNAUD",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Paris-S19-3-falc",
+            "numPanneau": 3
+          },
+          {
+            "pdf": "2-Paris-S19-7",
+            "candidat": "M. Roland TIMSIT",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 7
+          }
+        ]
+      },
+      "Paris-S20": {
+        "name": "20e secteur",
+        "url": "https://programme-candidats.interieur.gouv.fr/elections-arrondissements-2026/data-json/2_candidats_sect_Paris-S20",
+        "candidats": [
+          {
+            "pdf": "2-Paris-S20-2",
+            "candidat": "Mme Sophie DE LA ROCHEFOUCAULD",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 2
+          },
+          {
+            "pdf": "2-Paris-S20-5",
+            "candidat": "M. Eric PLIEZ",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "0",
+            "numPanneau": 5
+          },
+          {
+            "pdf": "2-Paris-S20-8",
+            "candidat": "M. Fran\u00e7ois-Marie DIDIER",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-Paris-S20-8-falc",
+            "numPanneau": 8
+          }
+        ]
+      }
+    }
+  }
+}

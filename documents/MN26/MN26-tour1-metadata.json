@@ -7230,7 +7230,7 @@
             "candidat": "Mme Sophie JOISSAINS",
             "falc_acc": "0",
             "pdf_acc": "0",
-            "falc": "0",
+            "falc": "1-13001-1-falc",
             "numPanneau": 1
           },
           {
@@ -8538,7 +8538,7 @@
             "candidat": "M. Beno\u00eet PAYAN",
             "falc_acc": "0",
             "pdf_acc": "0",
-            "falc": "0",
+            "falc": "1-13055-3-falc",
             "numPanneau": 3
           },
           {
@@ -8578,7 +8578,7 @@
             "candidat": "M. R\u00e9my BAZZALI",
             "falc_acc": "0",
             "pdf_acc": "0",
-            "falc": "0",
+            "falc": "1-13055-8-falc",
             "numPanneau": 8
           }
         ]
@@ -8616,7 +8616,7 @@
             "candidat": "M. Fr\u00e9d\u00e9ric GRIMAUD",
             "falc_acc": "0",
             "pdf_acc": "0",
-            "falc": "0",
+            "falc": "1-13056-4-falc",
             "numPanneau": 4
           },
           {
@@ -9544,7 +9544,7 @@
             "candidat": "M. Patrick CHINI",
             "falc_acc": "0",
             "pdf_acc": "0",
-            "falc": "0",
+            "falc": "1-13103-2-falc",
             "numPanneau": 2
           },
           {
@@ -9634,7 +9634,7 @@
             "candidat": "M. Adrien DUCH\u00c9",
             "falc_acc": "0",
             "pdf_acc": "0",
-            "falc": "0",
+            "falc": "1-13106-1-falc",
             "numPanneau": 1
           },
           {
@@ -9802,7 +9802,7 @@
         "url": "https://programme-candidats.interieur.gouv.fr/elections-municipales-2026/data-json/1_candidats_com_13114",
         "candidats": [
           {
-            "pdf": "0",
+            "pdf": "1-13114-1",
             "candidat": "M. Fr\u00e9d\u00e9ric REGIS",
             "falc_acc": "0",
             "pdf_acc": "0",
@@ -109150,11 +109150,11 @@
             "numPanneau": 1
           },
           {
-            "pdf": "0",
+            "pdf": "1-95052-2",
             "candidat": "M. Jean-Michel APARICIO",
             "falc_acc": "0",
             "pdf_acc": "0",
-            "falc": "0",
+            "falc": "1-95052-2-falc",
             "numPanneau": 2
           },
           {
@@ -110190,11 +110190,11 @@
         "url": "https://programme-candidats.interieur.gouv.fr/elections-municipales-2026/data-json/1_candidats_com_95355",
         "candidats": [
           {
-            "pdf": "0",
+            "pdf": "1-95355-1",
             "candidat": "M. Luc PUECH D'ALISSAC",
             "falc_acc": "0",
             "pdf_acc": "0",
-            "falc": "0",
+            "falc": "1-95355-1-falc",
             "numPanneau": 1
           },
           {
@@ -112522,7 +112522,7 @@
             "numPanneau": 3
           },
           {
-            "pdf": "1-97204-4",
+            "pdf": "0",
             "candidat": "M. Jean-Claude ECANVIL",
             "falc_acc": "0",
             "pdf_acc": "0",

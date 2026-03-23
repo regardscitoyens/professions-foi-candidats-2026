@@ -1401,7 +1401,7 @@
             "numPanneau": 4
           },
           {
-            "pdf": "0",
+            "pdf": "2-06083-5",
             "candidat": "Mme Sandra PAIRE",
             "falc_acc": "0",
             "pdf_acc": "0",
@@ -1642,7 +1642,7 @@
         "url": "https://programme-candidats.interieur.gouv.fr/elections-municipales-2026/data-json/2_candidats_com_06150",
         "candidats": [
           {
-            "pdf": "0",
+            "pdf": "2-06150-1",
             "candidat": "M. Daniel CANDELA",
             "falc_acc": "0",
             "pdf_acc": "0",
@@ -2920,7 +2920,7 @@
             "candidat": "Mme Sophie JOISSAINS",
             "falc_acc": "0",
             "pdf_acc": "0",
-            "falc": "0",
+            "falc": "2-13001-1-falc",
             "numPanneau": 1
           },
           {
@@ -2972,7 +2972,7 @@
             "numPanneau": 1
           },
           {
-            "pdf": "0",
+            "pdf": "2-13004-2",
             "candidat": "M. Jean-Michel JALABERT",
             "falc_acc": "0",
             "pdf_acc": "0",
@@ -3042,7 +3042,7 @@
         "url": "https://programme-candidats.interieur.gouv.fr/elections-municipales-2026/data-json/2_candidats_com_13014",
         "candidats": [
           {
-            "pdf": "0",
+            "pdf": "2-13014-1",
             "candidat": "M. Mario MARTINET",
             "falc_acc": "0",
             "pdf_acc": "0",
@@ -3450,7 +3450,7 @@
             "numPanneau": 2
           },
           {
-            "pdf": "0",
+            "pdf": "2-13050-3",
             "candidat": "M. Philippe RAZEYRE",
             "falc_acc": "0",
             "pdf_acc": "0",
@@ -3677,7 +3677,7 @@
             "numPanneau": 1
           },
           {
-            "pdf": "0",
+            "pdf": "2-13071-2",
             "candidat": "M. Romain AMARO",
             "falc_acc": "0",
             "pdf_acc": "0",
@@ -3957,7 +3957,7 @@
         "url": "https://programme-candidats.interieur.gouv.fr/elections-municipales-2026/data-json/2_candidats_com_13104",
         "candidats": [
           {
-            "pdf": "0",
+            "pdf": "2-13104-1",
             "candidat": "M. Maxime MARCHAND",
             "falc_acc": "0",
             "pdf_acc": "0",
@@ -9658,7 +9658,7 @@
         "url": "https://programme-candidats.interieur.gouv.fr/elections-municipales-2026/data-json/2_candidats_com_30007",
         "candidats": [
           {
-            "pdf": "0",
+            "pdf": "2-30007-2",
             "candidat": "M. Christophe RIVENQ",
             "falc_acc": "0",
             "pdf_acc": "0",
@@ -14802,7 +14802,7 @@
         "url": "https://programme-candidats.interieur.gouv.fr/elections-municipales-2026/data-json/2_candidats_com_37063",
         "candidats": [
           {
-            "pdf": "0",
+            "pdf": "2-37063-1",
             "candidat": "Mme Brigitte DUPUIS",
             "falc_acc": "0",
             "pdf_acc": "0",
@@ -24337,10 +24337,10 @@
         "url": "https://programme-candidats.interieur.gouv.fr/elections-municipales-2026/data-json/2_candidats_com_59220",
         "candidats": [
           {
-            "pdf": "0",
+            "pdf": "2-59220-1",
             "candidat": "M. Brice LAURET",
             "falc_acc": "0",
-            "pdf_acc": "2-59220-1-acc",
+            "pdf_acc": "0",
             "falc": "0",
             "numPanneau": 1
           },
@@ -24781,10 +24781,10 @@
             "numPanneau": 1
           },
           {
-            "pdf": "0",
+            "pdf": "2-59328-2",
             "candidat": "M. Laurent FRAPPART",
             "falc_acc": "0",
-            "pdf_acc": "2-59328-2-acc",
+            "pdf_acc": "0",
             "falc": "0",
             "numPanneau": 2
           },
@@ -24851,11 +24851,11 @@
         "url": "https://programme-candidats.interieur.gouv.fr/elections-municipales-2026/data-json/2_candidats_com_59350",
         "candidats": [
           {
-            "pdf": "0",
+            "pdf": "2-59350-1",
             "candidat": "M. Arnaud DESLANDES",
-            "falc_acc": "2-59350-1-falc-acc",
-            "pdf_acc": "2-59350-1-acc",
-            "falc": "0",
+            "falc_acc": "0",
+            "pdf_acc": "0",
+            "falc": "2-59350-1-falc",
             "numPanneau": 1
           },
           {
@@ -31854,7 +31854,7 @@
             "numPanneau": 1
           },
           {
-            "pdf": "0",
+            "pdf": "2-69256-2",
             "candidat": "Mme Christine BERTIN",
             "falc_acc": "0",
             "pdf_acc": "0",
@@ -31924,10 +31924,10 @@
         "url": "https://programme-candidats.interieur.gouv.fr/elections-municipales-2026/data-json/2_candidats_com_69266",
         "candidats": [
           {
-            "pdf": "2-69266-2",
+            "pdf": "0",
             "candidat": "M. Jean-Paul BRET",
             "falc_acc": "0",
-            "pdf_acc": "0",
+            "pdf_acc": "2-69266-2-acc",
             "falc": "0",
             "numPanneau": 2
           },
@@ -32717,7 +32717,7 @@
         "url": "https://programme-candidats.interieur.gouv.fr/elections-municipales-2026/data-json/2_candidats_com_72154",
         "candidats": [
           {
-            "pdf": "2-72154-1",
+            "pdf": "0",
             "candidat": "M. Romain LEMOIGNE",
             "falc_acc": "0",
             "pdf_acc": "0",
@@ -34214,7 +34214,7 @@
         "url": "https://programme-candidats.interieur.gouv.fr/elections-municipales-2026/data-json/2_candidats_com_76259",
         "candidats": [
           {
-            "pdf": "0",
+            "pdf": "2-76259-1",
             "candidat": "M. Serge GIRARD",
             "falc_acc": "0",
             "pdf_acc": "0",
@@ -34254,7 +34254,7 @@
         "url": "https://programme-candidats.interieur.gouv.fr/elections-municipales-2026/data-json/2_candidats_com_76296",
         "candidats": [
           {
-            "pdf": "0",
+            "pdf": "2-76296-2",
             "candidat": "Mme Jos\u00e9phine LANDORMI",
             "falc_acc": "0",
             "pdf_acc": "0",
@@ -34529,7 +34529,7 @@
             "candidat": "M. Maxime DA SILVA",
             "falc_acc": "0",
             "pdf_acc": "0",
-            "falc": "0",
+            "falc": "2-76540-7-falc",
             "numPanneau": 7
           }
         ]
@@ -44591,7 +44591,7 @@
             "candidat": "Mme Marie MACAIRE",
             "falc_acc": "0",
             "pdf_acc": "0",
-            "falc": "0",
+            "falc": "2-94019-3-falc",
             "numPanneau": 3
           },
           {
@@ -46108,11 +46108,11 @@
             "numPanneau": 1
           },
           {
-            "pdf": "0",
+            "pdf": "2-95641-2",
             "candidat": "Mme Christel POTTIER",
             "falc_acc": "0",
             "pdf_acc": "0",
-            "falc": "0",
+            "falc": "2-95641-2-falc",
             "numPanneau": 2
           },
           {
